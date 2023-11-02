@@ -1,0 +1,19 @@
+title:       HIS School | Landing Page      
+email:       hisschool.kh@gmail.com
+description: "A school for the underpriviledged children of Cambodia."
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+
+exclude:
+  - LICENSE
+  - README.md
+  - krypton.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: ""
